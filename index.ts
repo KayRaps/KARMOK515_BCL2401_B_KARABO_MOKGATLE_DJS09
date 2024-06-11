@@ -34,3 +34,19 @@ const you = {
     userName: 'Bobby',
     isReturning: true,
 }
+
+function populateUser(isReturning : boolean, userName: string ) {
+    if (isReturning){
+        returningUserDisplay.innerHTML = 'back'
+    }
+    userNameDisplay.innerHTML = userName
+}
+
+function populateUser(isReturning : boolean, userName: string ) {
+    if (isReturning){
+        returningUserDisplay.innerHTML = 'back'
+    }
+    userNameDisplay.innerHTML = userName
+}
+
+populateUser(you.isReturning, you.userName)
