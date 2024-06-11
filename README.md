@@ -1,13 +1,46 @@
-# DJS09: Couch Surfing | Typescript Practice
+# Project Name
 
-## Challenge Overview
+This project showcases a simple web application to display reviews and recommended properties.
 
-Are you ready to get stuck into some Typescript? For this challenge, you are required to code along with the lecturer from this lesson:  Couch Surfing Website
+## Table of Contents
 
-For this challenge you are required to code along with the lecturer from this lesson: Learn Typescript Tutorial
+- [Project Description](#project-description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-The focus for this project will be to understand the concepts around a JavaScript superset like Typescript and to get a feel for how it works. You will need to submit the finished Couch Surfing Website as your DJS09 Submission. 
+## Project Description
 
-**🚨 Note: You will need to make GitHub commits to your project after each lesson in the Scrimba walkthrough, showing that you have followed along with the lessons.**
+This project is a web application that displays reviews, user details, and recommended properties. It consists of HTML, CSS, and JavaScript files to render the user interface and handle user interactions.
 
-Make sure to submit your project on the LMS Project Tab [DJS09] 
+The main features of the application include:
+- Displaying reviews with star ratings.
+- Showing user details such as username and loyalty status.
+- Recommending properties based on user preferences.
+
+## Installation
+
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+
+2. Navigate to the project directory:
+cd project-directory
+
+3. Install dependencies:
+npm install
+
+## Usage
+
+To use the application:
+
+Open the index.html file in your web browser.
+Interact with the interface to view reviews and recommended properties.
+
+
+
+
+
